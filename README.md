@@ -110,4 +110,6 @@ python bot.py
 本项目采用 MIT 许可证
 
 ---
-Made with ❤️ by [你的名字]
+Made with ❤️ by BlackCat
+
+
