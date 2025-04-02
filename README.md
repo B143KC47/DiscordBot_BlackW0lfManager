@@ -2,6 +2,8 @@
 
 A modular Discord bot for managing voice channels, with powerful mute management capabilities.
 
+[中文文档](README.CN.md)
+
 ## Features
 
 - **Channel Mute Management**: Mute or unmute all users in a voice channel with a single command
@@ -53,4 +55,3 @@ Contributions are welcome! The modular architecture makes it easy to add new fea
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-[中文文档](README.CN.md)
